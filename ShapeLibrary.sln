@@ -3,9 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeLibrary", "ShapeLibrary\ShapeLibrary.csproj", "{C34F8BD0-4944-4195-878F-E8EAC69826CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShapeLibrary", "ShapeLibrary\ShapeLibrary.csproj", "{C34F8BD0-4944-4195-878F-E8EAC69826CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeLibraryTest", "ShapeLibraryTest\ShapeLibraryTest.csproj", "{B4567B28-4B61-4D2D-9BE9-7AD3FE5A3225}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShapeLibraryTest", "ShapeLibraryTest\ShapeLibraryTest.csproj", "{B4567B28-4B61-4D2D-9BE9-7AD3FE5A3225}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{96FD6B98-0E24-420E-92BE-32DC43A4EB7F}"
+	ProjectSection(SolutionItems) = preProject
+		query.sql = query.sql
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
